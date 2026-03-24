@@ -45,8 +45,7 @@ I learn tech best by using it. So I use a lot of it.
 ![SASE](https://img.shields.io/badge/SASE-1a1a2e?style=for-the-badge&logo=wireguard&logoColor=88171a)
 ![Network Security](https://img.shields.io/badge/Network_Security-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
 ![CG-NAT](https://img.shields.io/badge/CG--NAT-16213e?style=for-the-badge&logo=opnsense&logoColor=D94F00)
-![CASB](https://img.shields.io/badge/CASB-1a1a2e?style=for-the-badge&logo=shield&logoColor=6366f1)
-![DLP](https://img.shields.io/badge/DLP-0d1117?style=for-the-badge&logo=keycdn&logoColor=F48120)
+![5G](https://img.shields.io/badge/5G-E20074?style=for-the-badge&logo=tmobile&logoColor=ffffff)
 
 </div>
 
@@ -56,14 +55,12 @@ I learn tech best by using it. So I use a lot of it.
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
 ![NGINX](https://img.shields.io/badge/NGINX-0d1117?style=flat-square&logo=nginx&logoColor=009639)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003B57)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 ![Plex](https://img.shields.io/badge/Plex-0d1117?style=flat-square&logo=plex&logoColor=EBAF00)
+![Sonarr](https://img.shields.io/badge/Sonarr-0d1117?style=flat-square&logo=sonarr&logoColor=2196F3)
 
 </div>
 
@@ -193,21 +190,29 @@ Skyrim · Stardew Valley · Zelda · Satisfactory · Deep Rock Galactic · Slay 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/logvin/)
-[![Portfolio](https://img.shields.io/badge/log.vin-0d1117?style=for-the-badge&logo=cloudflare&logoColor=F48120)](https://log.vin)
+[![Portfolio](https://img.shields.io/badge/log.vin-0d1117?style=for-the-badge&logoColor=F48120)](https://log.vin)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Logvin)
 
 </div>
 
-<div align="center">
-<sub>
-
 ```
-$ uptime
- 15y+ in enterprise networking • mass mass quantities of mass quantities consumed
-```
+admin@thirtyeight:~$ systemctl status logvin.service
+● logvin.service - Alex Logvin
+     Loaded: loaded (/etc/systemd/system/logvin.service; enabled; preset: enabled)
+     Active: active (running) since 2011; 15y ago
+   Main PID: 1987 (logvin)
+      Tasks: mass quantities
+     Memory: mass quantities of Mt. Dew
+        CPU: mass quantities of mass quantities
+     CGroup: /system.slice/logvin.service
+             └─1987 /usr/bin/logvin --mode=builder --vibe=coder --location=tempe-az
 
-</sub>
-</div>
+Mar 23 03:14:07 thirtyeight logvin[1987]: WARNING: Mt. Dew supply critically low
+Mar 23 03:14:08 thirtyeight logvin[1987]: ERROR: You require more vespene gas
+Mar 23 03:14:15 thirtyeight logvin[1987]: > Claude, can you convert my brain dump into something
+                                           more organized for a GitHub profile?
+Mar 23 03:14:16 thirtyeight claude[4096]: Of course. Stand by.
+```
 
 <!--
     src: github.com/Logvin
