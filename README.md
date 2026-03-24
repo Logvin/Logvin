@@ -27,7 +27,7 @@
 
 ---
 
-### `> cat /etc/motd`
+### `> run-parts /etc/update-motd.d/`
 
 LinkedIn is my resume. This is my brain.
 
@@ -61,6 +61,7 @@ I learn tech best by using it. So I use a lot of it. And most of the time it wor
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 ![Plex](https://img.shields.io/badge/Plex-0d1117?style=flat-square&logo=plex&logoColor=EBAF00)
 ![Sonarr](https://img.shields.io/badge/Sonarr-0d1117?style=flat-square&logo=sonarr&logoColor=2196F3)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-0d1117?style=flat-square&logo=ubuntu&logoColor=E95420)
 
 </div>
 
