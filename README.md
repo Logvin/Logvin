@@ -27,7 +27,7 @@
 
 ---
 
-### `> run-parts /etc/update-motd.d/`
+### `> cat /etc/update-motd.d/00-header`
 
 LinkedIn is my resume. This is my brain.
 
