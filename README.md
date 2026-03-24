@@ -33,7 +33,7 @@ LinkedIn is my resume. This is my brain.
 
 I'm a customer-facing technical engineer who has spent 15+ years helping non-technical people understand deeply technical things; ZTNA, 5G, MDM, Agentic AI, and whatever the next acronym is. That's the day job. This GitHub is everything else: the projects I'm building, the civic tools I care about, the vibe coding sessions at 1am, and the homelab configs that definitely work on the third try.
 
-I learn tech best by using it. So I use a lot of it.
+I learn tech best by using it. So I use a lot of it. And most of the time it works! <img src="https://em-content.zobj.net/source/apple/391/face-with-raised-eyebrow_1f928.png" width="18"/>
 
 ---
 
@@ -209,8 +209,8 @@ admin@thirtyeight:~$ systemctl status logvin.service
 
 Mar 23 03:14:07 thirtyeight logvin[1989]: WARNING: Mt. Dew supply critically low
 Mar 23 03:14:08 thirtyeight logvin[1989]: ERROR: You require more vespene gas
-Mar 23 03:14:15 thirtyeight logvin[1989]: > Claude, can you convert my brain dump into something
-                                           more organized for a GitHub profile?
+Mar 23 03:14:15 thirtyeight logvin[1989]: > Claude, can you convert my brain dump into
+                                           something more organized for a GitHub profile?
 Mar 23 03:14:16 thirtyeight claude[4096]: Of course. Stand by.
 ```
 
