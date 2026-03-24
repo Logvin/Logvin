@@ -10,19 +10,23 @@
 <br>
 
 ```
-              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
-          ⢀⡴⠋                                                          ⠙⢦⡀
-        ⣠⠞⠁                                                              ⠈⠳⣄
-       ⣼⠁     Alex Logvin                                                  ⠈⣧
-       ⡇      ├── Vocation: Customer-Facing Technical Engineer               ⢸
-       ⡇      ├── Hobby: Building things at mass in my terminal              ⢸
-       ⡇      ├── Location: Tempe, AZ (UTC-7)                                ⢸
-       ⡇      ├── Education: M.S. Information Systems (ASU, Magna CL)        ⢸
-       ⡇      └── Motto: "Violence is the last refuge of the                 ⢸
-       ⣧                  incompetent." - Asimov                             ⣼
-        ⠳⣄                                                              ⣠⠞
-          ⠙⢦⡀                                                          ⢀⡴⠋
-              ⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉
+                                                                          .---.
+                                                                         /  .  \
+                                                                        |\_/|   |
+                                                                        |   |  /|
+  .-------------------------------------------------------------------' |
+ /  .-.                                                                  |
+|  /   \   Alex Logvin                                                   |
+| |\_.  |  ├── Vocation: Customer-Facing Technical Engineer              |
+|\|  | /|  ├── Hobby: Building things at mass in my terminal             |
+| `---' |  ├── Location: Tempe, AZ (UTC-7)                              |
+|       |  ├── Education: M.S. Information Systems (ASU, Magna CL)      |
+|       |  └── Motto: "Violence is the last refuge of the               |
+|       |              incompetent." - Asimov                           /
+|       |----------------------------------------------------------'
+\       |
+ \     /
+  `---'
 ```
 
 </div>
