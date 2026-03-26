@@ -10,7 +10,7 @@
 <br>
 
 ```
-{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
 {}                                                                 {}
 {}   Alex Logvin                                                   {}
 {}   ├── Vocation: Customer-Facing Technical Engineer              {}
@@ -20,7 +20,7 @@
 {}   └── Motto: "Violence is the last refuge of the                {}
 {}              incompetent." - Asimov                              {}
 {}                                                                 {}
-{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
 ```
 
 </div>
@@ -174,6 +174,20 @@ Skyrim · Stardew Valley · Zelda · Satisfactory · Deep Rock Galactic · Slay 
 <sub>Mainly indie. Always indie at heart.</sub>
 
 </div>
+
+---
+
+### `> cat ~/.ai_disclosure`
+
+```
+I use AI tools (primarily Claude) in my development workflow — for coding, writing,
+and open-source contributions. I direct the approach, review all output, and make
+the final calls. Think of it like pair programming where I'm driving.
+
+I'm the author. AI is my editor.
+
+All AI-assisted contributions are disclosed per project requirements.
+```
 
 ---
 
