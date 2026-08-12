@@ -10,17 +10,17 @@
 <br>
 
 ```
-{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+  {}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
 {}                                                                 {}
 {}   Alex Logvin                                                   {}
-{}   ├── Vocation: Customer-Facing Technical Engineer              {}
+{}   ├── Vocation: Customer-Facing Solution Architect              {}
 {}   ├── Hobby: Building things at mass in my terminal             {}
 {}   ├── Location: Tempe, AZ (UTC-7)                               {}
 {}   ├── Education: M.S. Information Systems (ASU, Magna CL)       {}
 {}   └── Motto: "Violence is the last refuge of the                {}
-{}              incompetent." - Asimov                              {}
+{}              incompetent." - Asimov                             {}
 {}                                                                 {}
-{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+  {}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
 ```
 
 </div>
@@ -31,7 +31,7 @@
 
 LinkedIn is my resume. This is my brain.
 
-I'm a customer-facing technical engineer who has spent 15+ years helping non-technical people understand deeply technical things; ZTNA, 5G, MDM, Agentic AI, and whatever the next acronym is. That's the day job. This GitHub is everything else: the projects I'm building, the civic tools I care about, the vibe coding sessions at 1am, and the homelab configs that definitely work on the third try.
+I'm a customer-facing technical engineer & architect who has spent 15+ years helping non-technical people understand deeply technical things; ZTNA, 5G, MDM, Agentic AI, and whatever the next acronym is. That's the day job. This GitHub is everything else: the projects I'm building, the civic tools I care about, the vibe coding sessions at 1am, and the homelab configs that definitely work on the third try.
 
 I learn tech best by using it. So I use a lot of it. And most of the time it works! <img src="https://em-content.zobj.net/source/apple/391/face-with-raised-eyebrow_1f928.png" width="18"/>
 
@@ -105,19 +105,9 @@ I learn tech best by using it. So I use a lot of it. And most of the time it wor
 
 #### Day Job
 
-**Sr. Solutions Engineer; 15 years at T-Mobile**
+**Principal Solutions Architect - Building a better internet @ Cloudflare**
 
-Customer-facing technical engineer. I translate ZTNA, 5G, MDM, Agentic AI, and whatever else into language that non-technical stakeholders can actually act on.
-
-**Next Role:**
-
-```
-┌─────────────────────────────────┐
-│                                 │
-│    ██████  REDACTED  ██████     │
-│                                 │
-└─────────────────────────────────┘
-```
+Customer-facing technical architect. I translate ZTNA, 5G, MDM, Agentic AI, and whatever else into language that non-technical stakeholders can actually act on.
 
 </td>
 <td width="50%" valign="top">
@@ -129,6 +119,11 @@ Open-source tools for government transparency, campaign finance tracking, and co
 #### Homelab Tinkerer
 
 Self-hosted infrastructure running Docker, NGINX, Cloudflare, mergerfs, and rclone across bare metal and cloud. I learn tech best by using it.
+
+
+#### Vexatious Litigant
+
+I investigate and file formal complaints with city, county and state government enforcement organizations for campaign finance violations in Arizona. I've been labeled a "vexatious litigant" by multiple law firms as they think slandering me will somehow help them win their case. It hasn't worked for them yet, and my complaints keep getting their clients referred for prosecution.
 
 </td>
 </tr>
